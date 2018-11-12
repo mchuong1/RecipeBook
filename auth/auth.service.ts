@@ -5,12 +5,12 @@ import 'firebase/auth';
 
 
 const config = {
-  apiKey: "AIzaSyAOjV7akZ0i--9UiznoZY63BWhUSvfgMz8",
-  authDomain: "recipebook-8013f.firebaseapp.com",
-  databaseURL: "https://recipebook-8013f.firebaseio.com",
-  projectId: "recipebook-8013f",
-  storageBucket: "recipebook-8013f.appspot.com",
-  messagingSenderId: "760269398327"
+  apiKey: "...",
+  authDomain: "...",
+  databaseURL: "...",
+  projectId: "...",
+  storageBucket: "...",
+  messagingSenderId: "..."
 };
 firebase.initializeApp(config);
 
